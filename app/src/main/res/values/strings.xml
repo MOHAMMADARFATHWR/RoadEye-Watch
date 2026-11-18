@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RoadWatch</string>
+    <string name="permission_title">Camera Access Required</string>
+    <string name="permission_subtitle">RoadWatch analyzes your rear camera feed entirely on-device in real time to highlight road potholes and surface hazards.</string>
+    <string name="permission_bullet_local">100% on-device inference — no video is recorded or uploaded</string>
+    <string name="permission_bullet_live">Low-latency CameraX + MediaPipe Vision object detection</string>
+    <string name="permission_bullet_alerts">Optional audio and haptic alerts for close-range hazards</string>
+    <string name="permission_grant_button">Grant Camera Access</string>
+    <string name="permission_denied_notice">Camera permission is needed to scan the road ahead. You can enable it in app settings.</string>
+    <string name="permission_open_settings">Open App Settings</string>
+    <string name="delegate_gpu">GPU</string>
+    <string name="delegate_cpu">CPU</string>
+    <string name="delegate_demo">DEMO MODE</string>
+    <string name="confidence_threshold_label">Confidence Threshold</string>
+    <string name="hazard_alert_label">Danger Zone Alert</string>
+    <string name="hazard_alert_sublabel">Audio &amp; haptic on ≥75% hazard</string>
+    <string name="reset_count">Reset Count</string>
+    <string name="pothole_detected_label">POTHOLE</string>
+    <string name="danger_zone_tag">DANGER ZONE</string>
+    <string name="camera_preview_description">Live road camera preview</string>
+</resources>

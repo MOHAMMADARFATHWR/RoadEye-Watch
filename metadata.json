@@ -1,0 +1,6 @@
+{
+  "name": "RoadWatch",
+  "description": "Real-time on-device pothole detection HUD using CameraX and MediaPipe Tasks Vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
